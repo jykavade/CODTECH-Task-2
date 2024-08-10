@@ -1,4 +1,4 @@
-# student_grades.py
+#  the program should allows the user to input grades for different subjects or assisgnments ,calculate the average grade, and display the overall grade along with any additional information (such as letter grade or GPA)
 
 class Student:
     def __init__(self, name):
