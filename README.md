@@ -18,31 +18,28 @@
 
 **Technical Requirements:**
 
-Python 3.x: The program is written in Python 3.x and utilizes built-in data types and functions to perform calculations and display results.
-Input Validation: The program includes input validation to ensure that users enter valid grades (e.g., numbers between 0 and 100).
-Modular Design: The program is designed with modularity in mind, with separate functions for calculating the average grade, letter grade, and GPA.
-Benefits:
+1.**Python 3.x:** The program is written in Python 3.x and utilizes built-in data types and functions to perform calculations and display results.
+2.**Input Validation:** The program includes input validation to ensure that users enter valid grades (e.g., numbers between 0 and 100).
+3.**Modular Design:** The program is designed with modularity in mind, with separate functions for calculating the average grade, letter grade, and GPA.
 
-Easy to Use: The program is easy to use, even for those with limited technical expertise.
-Accurate Calculations: The program performs accurate calculations, ensuring that users receive reliable results.
-Customizable: The program can be easily modified to accommodate different grading systems or requirements.
-Target Audience:
+**Benefits:**
+1.**Easy to Use:** The program is easy to use, even for those with limited technical expertise.
+2.**Accurate Calculations:** The program performs accurate calculations, ensuring that users receive reliable results.
+3.**Customizable:** The program can be easily modified to accommodate different grading systems or requirements.
 
-Students: The program is ideal for students who need to track their grades and calculate their overall performance.
-Teachers/Educators: The program can be used by teachers and educators to calculate grades for their students and provide feedback.
-Parents: Parents can use the program to monitor their child's progress and provide support.
-Future Development:
+**Target Audience:**
+1.**Students:** The program is ideal for students who need to track their grades and calculate their overall performance.
+2.**Teachers/Educators: **The program can be used by teachers and educators to calculate grades for their students and provide feedback.
+3.**Parents:** Parents can use the program to monitor their child's progress and provide support.
 
-Additional Features: Future development could include adding features such as weighted grades, grade tracking over time, and customizable grading systems.
-Graphical User Interface: A graphical user interface could be added to make the program more visually appealing and user-friendly.
-Data Storage: The program could be modified to store grades and calculations, allowing users to track their progress over time.
+**Future Development:**
+
+1.**Additional Features:** Future development could include adding features such as weighted grades, grade tracking over time, and customizable grading systems.
+2.**Graphical User Interface:** A graphical user interface could be added to make the program more visually appealing and user-friendly.
+3.**Data Storage:** The program could be modified to store grades and calculations, allowing users to track their progress over time.
 
 
 
-Follow This Topic
-Share
-New Chat
-Scroll to bottom
 
 
 
