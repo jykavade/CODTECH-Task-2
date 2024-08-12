@@ -1,4 +1,4 @@
-# CODTECH-Task-2
+# CODTECH-Task-2/
 **Name:**-JYOTI BALU KAVADE
 **Company:**-CODTECH IT SOLUTIONS
 **ID:**-CTO8DS4914
@@ -8,44 +8,41 @@
 **Overview Of The Project**-
 **Project : Student Grade Tracker**
 
-Functional Requirements:
 
-User Input: The program should allow users to input grades for different subjects or assignments.
-Grade Calculation: The program should calculate the average grade for each subject or assignment.
-Overall Grade Calculation: The program should calculate the overall average grade for all subjects or assignments.
-Letter Grade Conversion: The program should convert the average grade to a letter grade (e.g., A, B, C, D, F).
-GPA Calculation: The program should calculate the GPA (Grade Point Average) based on the letter grade.
-Display Grades: The program should display the grades, average grades, letter grades, and GPA for each subject or assignment, as well as the overall average grade, letter grade, and GPA.
-Non-Functional Requirements:
+**Key Features:**
 
-User-Friendly Interface: The program should have a user-friendly interface that is easy to navigate and understand.
-Error Handling: The program should handle errors and exceptions, such as invalid input or division by zero.
-Data Storage: The program should store the grades and calculations in a way that allows for easy retrieval and display.
-Technical Requirements:
+1.**Multi-Subject/Assignment Support:** Users can input grades for multiple subjects or assignments, making it a versatile tool for students, teachers, and educators.
+2.**Average Grade Calculation:** The program calculates the average grade based on the input grades, providing a comprehensive overview of the user's performance.
+3.**Letter Grade and GPA Conversion:** The program converts the average grade to a letter grade (A, B, C, D, or F) and calculates the corresponding GPA (4.0, 3.0, 2.0, 1.0, or 0.0).
+4**.User-Friendly Interface:** The program features a simple and intuitive interface, making it easy for users to input grades and view the results.
 
-Programming Language: Python 3.x
-Data Structures: Lists, dictionaries, and objects to store and manipulate grades and calculations.
-Input/Output: Command-line interface (CLI) or graphical user interface (GUI) for user input and output.
-Project Components:
+**Technical Requirements:**
 
-Student Class: A Python class to represent a student, with attributes for name, grades, and calculations.
-Grade Calculator: A function or method to calculate the average grade, letter grade, and GPA.
-User Interface: A CLI or GUI to interact with the user and display the grades and calculations.
-Data Storage: A mechanism to store the grades and calculations, such as a dictionary or a file.
-Project Timeline:
+Python 3.x: The program is written in Python 3.x and utilizes built-in data types and functions to perform calculations and display results.
+Input Validation: The program includes input validation to ensure that users enter valid grades (e.g., numbers between 0 and 100).
+Modular Design: The program is designed with modularity in mind, with separate functions for calculating the average grade, letter grade, and GPA.
+Benefits:
 
-Day 1-2: Design and implement the Student class and Grade Calculator.
-Day 3-4: Develop the User Interface (CLI or GUI).
-Day 5-6: Implement Data Storage and error handling.
-Day 7: Test and debug the program.
-Project Deliverables:
+Easy to Use: The program is easy to use, even for those with limited technical expertise.
+Accurate Calculations: The program performs accurate calculations, ensuring that users receive reliable results.
+Customizable: The program can be easily modified to accommodate different grading systems or requirements.
+Target Audience:
 
-Source Code: The Python program with comments and documentation.
-User Manual: A document explaining how to use the program.
-Test Cases: A set of test cases to verify the program's functionality.
-This project overview provides a comprehensive outline of the Student Grade Tracker project, including its functional and non-functional requirements, technical requirements, project components, timeline, and deliverables.
+Students: The program is ideal for students who need to track their grades and calculate their overall performance.
+Teachers/Educators: The program can be used by teachers and educators to calculate grades for their students and provide feedback.
+Parents: Parents can use the program to monitor their child's progress and provide support.
+Future Development:
+
+Additional Features: Future development could include adding features such as weighted grades, grade tracking over time, and customizable grading systems.
+Graphical User Interface: A graphical user interface could be added to make the program more visually appealing and user-friendly.
+Data Storage: The program could be modified to store grades and calculations, allowing users to track their progress over time.
 
 
+
+Follow This Topic
+Share
+New Chat
+Scroll to bottom
 
 
 
