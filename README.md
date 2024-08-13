@@ -7,6 +7,7 @@
 
 **Overview Of The Project**-
 **Project : Student Grade Tracker**
+![image](https://github.com/user-attachments/assets/27e7f70c-e82a-4b78-be34-e30b6adf893a)
 
 
 **Key Features:**
